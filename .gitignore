@@ -1,0 +1,8 @@
+sign_env/
+sign_lang_env/
+sign_model.h5
+mp4s/
+best_openvino_model/
+model-vosk/
+signdata/
+__pycache__/
